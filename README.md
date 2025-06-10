@@ -2,9 +2,10 @@
 
 ## Getting started
 - Log into https://colab.research.google.com/ with google account
-- copy jupyter notebook "pathling_workshop_bzkf_summerschool_2025.ipynb" to colab
-- Download test data and load to a folder named "data" to your colab workspace https://cloud.uk-erlangen.de/s/qS9BcyYLcpAJWH7
-- run the first cell to update and install dependencies
+- upload jupyter notebook "pathling_workshop_bzkf_summerschool_2025.ipynb" to colab
+- Download test data from here https://cloud.uk-erlangen.de/s/qS9BcyYLcpAJWH7 and upload zip folder to colab
+- unzip test data with first code cell of the notebook
+- run the second cell to update and install dependencies
 
 
 #### Relevant Links:
